@@ -19,7 +19,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirhussain0909&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <!--[![](https://visitcount.itsvg.in/api?id=tahirhussain0909&icon=1&color=12)](https://visitcount.itsvg.in) <br>-->
----
-[![](https://visitcount.itsvg.in/api?id=tahirhussain0909&icon=1&color=12)](https://visitcount.itsvg.in) <br>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
