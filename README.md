@@ -13,10 +13,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tahirhussain0909&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahirhussain0909&theme=chartreuse-dark&hide_border=true)
-<br>
-<img align="right" alt="Coding" width="400" src="https://github.com/tahirhussain0909/tahirhussain0909/blob/main/coding.gif">
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirhussain0909&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-
 <!--[![](https://visitcount.itsvg.in/api?id=tahirhussain0909&icon=1&color=12)](https://visitcount.itsvg.in) <br>-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
