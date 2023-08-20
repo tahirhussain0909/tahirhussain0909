@@ -11,7 +11,39 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tahirhussain0909&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tahirhussain0909&theme=chartreuse-dark&hide_border=true)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .github-widget {
+    float: left;
+    width: 48%;
+  }
+
+  .last-line-widget {
+    float: right;
+    width: 48%;
+  }
+
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
+</head>
+<body>
+  <div class="github-widget">
+    <img src="https://github-readme-stats.vercel.app/api?username=tahirhussain0909&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  </div>
+  <div class="last-line-widget">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahirhussain0909&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak">
+  </div>
+  <div class="clearfix"></div>
+</body>
+</html>
+
+<!--![](https://github-readme-stats.vercel.app/api?username=tahirhussain0909&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tahirhussain0909&theme=chartreuse-dark&hide_border=true) -->
 <!--[![](https://visitcount.itsvg.in/api?id=tahirhussain0909&icon=1&color=12)](https://visitcount.itsvg.in) <br>-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
