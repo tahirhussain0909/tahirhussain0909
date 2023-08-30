@@ -2,7 +2,18 @@
 
 # Hi, I'm Tahir hussain! 👋
 
-👨‍💻 I'm currently working on mobile app development using Flutter and Android.<br>🤝 I'm looking to collaborate on exciting cross-platform projects.<br>🙏 I'm looking for help with advanced Android topics and back end integration.<br>📚 I'm currently learning about server-side development and full-stack technologies<br>❓ Ask me about mobile development, Flutter, or anything tech-related!<br>🎉 Fun fact: I love exploring new programming languages and frameworks!
+<table>
+  <tr>
+    <td>
+      ### [Connect with me 💬](https://bio.link/hussaintahir)
+    </td>
+    <td>
+     👨‍💻 I'm currently working on mobile app development using Flutter and Android.<br>🤝 I'm looking to collaborate on exciting cross-platform projects.<br>🙏 I'm looking for help with advanced Android topics and back end integration.<br>📚 I'm currently learning about server-side development and full-stack technologies<br>❓ Ask me about mobile development, Flutter, or anything tech-related!<br>🎉 Fun fact: I love exploring new programming languages and frameworks!
+    </td>
+  </tr>
+</table>
+
+
 
 
 <!--## 🌐 Socials:
@@ -25,13 +36,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahirhussain0909&theme=chartreuse-dark&hide_border=true) -->
 <!--[![](https://visitcount.itsvg.in/api?id=tahirhussain0909&icon=1&color=12)](https://visitcount.itsvg.in) <br>-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
-<table>
-  <tr>
-    <td>
-      ### [Connect with me 💬](https://kunalkushwaha.com) 
-    </td>
-    <td>
-     👨‍💻 I'm currently working on mobile app development using Flutter and Android.<br>🤝 I'm looking to collaborate on exciting cross-platform projects.<br>🙏 I'm looking for help with advanced Android topics and back end integration.<br>📚 I'm currently learning about server-side development and full-stack technologies<br>❓ Ask me about mobile development, Flutter, or anything tech-related!<br>🎉 Fun fact: I love exploring new programming languages and frameworks!
-    </td>
-  </tr>
-</table>
