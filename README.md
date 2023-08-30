@@ -5,13 +5,14 @@
 <table>
   <tr>
     <td>
-      ### [Connect with me 💬](https://bio.link/hussaintahir)
+      <a href="https://bio.link/hussaintahir">Connect with me 💬</a>
     </td>
     <td>
-     👨‍💻 I'm currently working on mobile app development using Flutter and Android.<br>🤝 I'm looking to collaborate on exciting cross-platform projects.<br>🙏 I'm looking for help with advanced Android topics and back end integration.<br>📚 I'm currently learning about server-side development and full-stack technologies<br>❓ Ask me about mobile development, Flutter, or anything tech-related!<br>🎉 Fun fact: I love exploring new programming languages and frameworks!
+      👨‍💻 I'm currently working on mobile app development using Flutter and Android.<br>🤝 I'm looking to collaborate on exciting cross-platform projects.<br>🙏 I'm looking for help with advanced Android topics and back end integration.<br>📚 I'm currently learning about server-side development and full-stack technologies<br>❓ Ask me about mobile development, Flutter, or anything tech-related!<br>🎉 Fun fact: I love exploring new programming languages and frameworks!
     </td>
   </tr>
 </table>
+
 
 
 
