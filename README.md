@@ -1,7 +1,5 @@
 [![MasterHead](https://github.com/tahirhussain0909/tahirhussain0909/blob/main/2000_600px.gif)](https://twitter.com/AppArchitect_)
 
-# Hi, I'm Tahir hussain! 👋
-
 <table>
   <tr>
     <td>
