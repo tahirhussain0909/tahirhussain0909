@@ -6,7 +6,7 @@
       👨‍💻 I'm currently learning full Stack web Development.<br>🤝 I'm looking to collaborate on exciting WEB projects.<br>🙏 I'm looking for help with advanced full Stack topics.<br>📚 I'm currently learning about server-side development and full-stack technologies<br>❓ Ask me about full Stack development, Web, or anything tech-related!<br>🎉 Fun fact: I love exploring new programming languages and frameworks!
     </td>
     <td>
-      <a href="https://bio.link/hussaintahir"> ---------------  Connect with me  ----------------- </a>
+      <a href="https://bio.link/hussaintahir"> ---------------  Connect with me  -------------- </a>
     </td>
   </tr>
 </table>
